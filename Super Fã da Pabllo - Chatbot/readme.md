@@ -14,7 +14,9 @@ Desenvolvido em Python, utilizando a biblioteca Chatterbot, o Bot Superfã da Pa
 **Referência / Stack**
 
 [Chatterbot](https://chatterbot.readthedocs.io/en/stable/index.html).
+
 Python
-botpress
+
+Botpress
 
 
