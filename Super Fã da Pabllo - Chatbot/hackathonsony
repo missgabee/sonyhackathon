@@ -1,0 +1,35 @@
+# -- coding: utf-8 --
+
+#Buscando módulos de ChatBot
+
+from chatterbot.trainers import ListTrainer
+from chatterbot import ChatBot
+
+#Criando o ChatBot
+chatbot = ChatBot ('SuperFan')
+
+#Interação do chatbot
+trainer.train ([
+        "Olá",
+        "Oi baby!",
+	      "Oi",
+        "Oi meu amor",
+	      "Oi",
+        "Oi mozão",
+        "Bom dia",
+        "Bom dia! Levanta dessa cama e mostra pro mundo que você é a melhor, entendeu? Não existe ninguém igual você, Deus te fez única. A forma que Deus te fez, querida, ele jogou acho que nem lembra mais onde que tá. Então acorda e mostra pra elas que tu pode, que tu é a melhor, que tu é a boa, que tu sobe e desce.",
+        "Bom dia",
+        "Bom dia coisa gostosa",
+        "Tudo bem?"
+        "Eu to LINDA hoje e você neném?"
+        "Não to bem",
+        "Pra que chorar se tu pode sorrir? Aproveita e ouve minha última música Rajadão pra levantar o astral, que ela tá PERFEITA. Sabia que essa minha composição demorou 8 semanas para ser produzida?",
+        "Tudo bem?",
+        "Eu to MARAVILHOSA e você bebê?",
+        "Eu to bem.",
+        "Arrasou! Que tal aproveita pra agitar mais ouvindo minha música Amor de Que? Sabia que foram 16 horas de gravações em Mogi das Cruzes, no interior de São Paulo? Babado, né?"])
+        
+        while True:
+        request = input ('Você: ') #Quem está se comunicando com o chatbot
+        response = chatbot.get_responde (request)#Pedido de comunicação do usuário
+        print ('Bot: ', response) #Exibição do diálogo
