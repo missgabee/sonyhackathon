@@ -1,35 +1,28 @@
 # sonyhackathon
 ## Time 42
-# *Projeto:* Super f„s
-# PrtÛtipo: Skill da Alexa Superf„ da Pabllo Vitar
+# *Projeto:* Super f√£s
 
+### Prot√≥tipo: Skill da Alexa Superf√£ da Pabllo Vittar <h3>
 
-# TÌtulo <h1>
-## TÌtulo <h2>
-### TÌtulo <h3>
-#### TÌtulo <h4>
-##### TÌtulo <h5>
-###### TÌtulo <h6>
+A Skill da Alexa **Superf√£ da Pabllo** foi criada para identificar padr√µes de "humor" do  usu√°rio e dar uma resposta com a voz e comportamento da Artista Pabllo Vittar.
+Para fins de rapidez na prototipagem do projeto, foi escolhido utilizar a plataforma Voice flow, que funciona como um builder da Alexa com uma interface visual.
+[Link para o Projeto Pabllo na plataforma Voice Flow](https://creator.voiceflow.com/invite?
 
-em **negrito**, e outro em _it·lico_.
+**Algor√≠timo visual na Plataforma VoiceFlow**
+[Link para o Projeto Pabllo na plataforma Voice Flow](https://creator.voiceflow.com/invite?invite_code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWFtX2lkIjoiVnpFbFp6UWpMNiIsInJvbGUiOiJ2aWV3ZXIiLCJieUxpbmsiOnRydWUsInRpbWUiOjE2MDQyNzM1ODEsImlhdCI6MTYwNDI3MzU4MX0.P_AxbLnljtk0aX20PtDUTn36ofSQP1fBTAftSfgrP_Y).
 
-[Link para o algorÌtmo na plataforma Voice Flow](https://creator.voiceflow.com/invite?invite_code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWFtX2lkIjoiVnpFbFp6UWpMNiIsInJvbGUiOiJ2aWV3ZXIiLCJieUxpbmsiOnRydWUsInRpbWUiOjE2MDQyNzM1ODEsImlhdCI6MTYwNDI3MzU4MX0.P_AxbLnljtk0aX20PtDUTn36ofSQP1fBTAftSfgrP_Y).
+![VoiceFlow Visual Interface - Skill Alexa](https://simonestatic.s3.us-east-2.amazonaws.com/alexa-tg/voice-flow-visual-algorithm.png)
 
-<https://exemplo.com/>
+**Aplica√ß√£o no Painel Alexa (Ambiente DEV)**
+![Painel Developer Amazon Alexa](https://simonestatic.s3.us-east-2.amazonaws.com/alexa-tg/publicacao-aws-ambiente-dev.png)
 
+**Refer√™ncia / Stack**
 
-* Item 1
-* Item 2
-* Item 3
+[Voiceflow](https://chatterbot.readthedocs.io/en/stable/index.html).
+[Alexa official Repo](https://github.com/alexa/).
+[Devic - Iphone with Alexa App](https://apps.apple.com/br/app/amazon-alexa/id944011620).
 
-1. Item 1
-2. Item 2
-3. Item 3
-
-![Alt ou tÌtulo da imagem](URL da imagem)
-
-
->Este È um *blockquote*. O sinal usado abre e fecha este cÛdigo no HTML. 
->Para adicionar mais uma linha ‡ citaÁ„o, basta teclar Enter para um novo
->cÛdigo sinal. Isso gerar· um novo par·grafo dentro do *blockquote*.
->CÛdigos de **negrito**, _it·lico_ e <https://links.com> funcionam aqui.
+**Time 42** - 
+Amanda Fran√ßa,
+Gabriela Oliveira,
+Marina Perello.
