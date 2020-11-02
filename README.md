@@ -1,12 +1,14 @@
-# sonyhackathon
-
-# sonyhackathon
-## Time 42
+# sonyhackathon - Time 42
 # *Projeto:* Super fãs
 
 ### Protótipo da Plataforma:
 [Devic - Iphone with Alexa App](https://www.figma.com/file/d1j8MJJ03pLXy8xLijgIws/app?node-id=0%3A1).
 
+### POC: Chatbot Superfã da Pabllo Vittar <h3>
+
+Desenvolvido em Python, utilizando a biblioteca Chatterbot, o Bot Superfã da Pabllo foi treinado com pequeno data set de frases ditas pela artista.
+
+O **chatbot do SuperFãs** foi desenvolvido para aproximar fãs de seus ídolos, onde ao iniciar a interação com um "Bom dia", "Olá", ou outra saudação, a inteligencia artificial responde ao usuário de maneira que a resposta se assemelha ao comportamento do artista selecionado. Este bot também pode fornecer algumas curiosidades sobre o processo de gravação das músicas, dicas de onde obter itens de fãs entre outras informações e interações.
 
 
 ### POC: Skill da Alexa Superfã da Pabllo Vittar <h3>
