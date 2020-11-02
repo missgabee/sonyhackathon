@@ -4,6 +4,7 @@
 ### Protótipo da Plataforma:
 
 SuperFã é uma plataforma de experiência de conexão entre o usuário e seu ídolo. Através de chat, voz, ou realidade virtual.
+
 [Link para Protótipo da Plataforma](https://www.figma.com/file/d1j8MJJ03pLXy8xLijgIws/app?node-id=0%3A1).
 
 ### POC: Chatbot Superfã da Pabllo Vittar <h3>
