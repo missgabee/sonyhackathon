@@ -19,4 +19,7 @@ Python
 
 Botpress
 
-
+**Time 42** - 
+Amanda França,
+Gabriela Oliveira,
+Marina Perello.
