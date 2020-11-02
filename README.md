@@ -2,7 +2,9 @@
 # *Projeto:* Super fãs
 
 ### Protótipo da Plataforma:
-[Devic - Iphone with Alexa App](https://www.figma.com/file/d1j8MJJ03pLXy8xLijgIws/app?node-id=0%3A1).
+
+SuperFã é uma plataforma de experiência de conexão entre o usuário e seu ídolo. Através de chat, voz, ou realidade virtual.
+[Link para Protótipo da Plataforma](https://www.figma.com/file/d1j8MJJ03pLXy8xLijgIws/app?node-id=0%3A1).
 
 ### POC: Chatbot Superfã da Pabllo Vittar <h3>
 
@@ -29,7 +31,7 @@ Para fins de rapidez na prototipagem do projeto, foi escolhido utilizar a plataf
 
 [Voiceflow](https://chatterbot.readthedocs.io/en/stable/index.html).
 [Alexa official Repo](https://github.com/alexa/).
-[Devic - Iphone with Alexa App](https://apps.apple.com/br/app/amazon-alexa/id944011620).
+[Device - Iphone with Alexa App](https://apps.apple.com/br/app/amazon-alexa/id944011620).
 
 **Time 42** - 
 Amanda França,
