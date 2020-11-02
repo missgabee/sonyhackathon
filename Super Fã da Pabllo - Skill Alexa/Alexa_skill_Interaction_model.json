@@ -1,0 +1,188 @@
+{
+	"interactionModel": {
+		"languageModel": {
+			//What we have to say to activate the skill Superfã da Pabllo
+			"invocationName": "superfã da pabllo",
+			"intents": [
+				//Default Intents 
+				{
+					"name": "AMAZON.CancelIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.HelpIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.StopIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.YesIntent",
+					"samples": [
+						"sim"
+					]
+				},
+				{
+					"name": "AMAZON.NoIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.RepeatIntent",
+					"samples": []
+				},
+				{
+					"name": "e_agora",
+					"slots": [],
+					"samples": [
+						"diz ai pablo",
+						"me conta",
+						"depois",
+						"depois oque eu faço",
+						"e agora pablo",
+						"e depois pablo"
+					]
+				},
+				//Pabllo Custom Intents
+				{
+					"name": "como_estou",
+					"slots": [],
+					"samples": [
+						"oque você acha de mim",
+						"eu sou lindinha",
+						"eu sou maravilhosa",
+						"me acho feia",
+						"sou feia",
+						"existe alguem mais linda do que eu",
+						"como eu estou",
+						"to bonita"
+					]
+				},
+				{
+					"name": "depre",
+					"slots": [],
+					"samples": [
+						"me dá um up",
+						"me diz algo pra me animar",
+						"me anima",
+						"deprimidíssima",
+						"estou arrasada",
+						"to de cama",
+						"to na bad",
+						"to deprimido",
+						"to cansado",
+						"exausto",
+						"exausta",
+						"cansada",
+						"desanimada",
+						"estou desanimada",
+						"to pra baixo",
+						"to meio deprê"
+					]
+				},
+				{
+					"name": "bye",
+					"slots": [],
+					"samples": [
+						"To saindo",
+						"Tenho que ir ",
+						"Até logo Pablo",
+						"Adeus Pablo",
+						"Tchau Pablo",
+						"Fui",
+						"Vou embora",
+						"Até logo",
+						"Adeus",
+						"Tchau"
+					]
+				},
+				{
+					"name": "lazy",
+					"slots": [],
+					"samples": [
+						"Vou ficar de preguiça",
+						"To desanimada",
+						"Estou com preguiça",
+						"Estou morta",
+						"To chateada",
+						"To com preguiça",
+						"Estou cansada"
+					]
+				},
+				{
+					"name": "provocation",
+					"slots": [],
+					"samples": [
+						"Você é muito doida",
+						"Palhaça",
+						"Engraçadinha você",
+						"Você é uma figura",
+						"Você é uma comédia",
+						"Você é engraçadinha",
+						"Você é uma palhaça",
+						"Você está muito engraçada"
+					]
+				},
+				{
+					"name": "iam_happy",
+					"slots": [],
+					"samples": [
+						"Ai Pablo to doida",
+						"Ai Pablo to animada",
+						"To animada",
+						"Estou animada",
+						"To bem",
+						"To feliz",
+						"Eu estou bem",
+						"Eu estou feliz "
+					]
+				},
+				{
+					"name": "whatsup",
+					"slots": [],
+					"samples": [
+						"Você é viado",
+						"Você é mulher",
+						"Você é gay",
+						"Você está bonita",
+						"É bonita",
+						"Você é bonita",
+						"Drag é feliz",
+						"Você é drag",
+						"Você está feliz",
+						"Tá feliz",
+						"Tá tudo bem",
+						"Como está você",
+						"Como você está se sentindo",
+						"Como você tá hoje",
+						"Como você está hoje",
+						"Como tu tá",
+						"Como você tá",
+						"Como você esta",
+						"Tudo bem com você"
+					]
+				},
+				{
+					"name": "greetings",
+					"slots": [],
+					"samples": [
+						"Olá Pablo",
+						"Oi oi oi",
+						"Olá",
+						"Oi",
+						"Boa noite Pablo",
+						"Boa tarde Pablo",
+						"Bom dia Pablo",
+						"E aí Pablo",
+						"Oi Pablo"
+					]
+				},
+				{
+					"name": "AMAZON.NavigateHomeIntent",
+					"samples": []
+				}
+			],
+			"types": []
+		}
+	}
+}
